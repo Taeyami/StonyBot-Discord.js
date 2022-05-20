@@ -1,0 +1,84 @@
+{
+	"cards":[
+		{
+			"energy": "1",
+			"damage": "10",
+			"deffence": "0",
+			"removeCard": "0",
+			"addCard": "0",
+			"damageHero": "0"
+		},
+		{
+			"energy": "1",
+			"damage": "10",
+			"deffence": "0",
+			"removeCard": "0",
+			"addCard": "0",
+			"damageHero": "0"
+		},
+		{
+			"energy": "1",
+			"damage": "0",
+			"deffence": "0",
+			"removeCard": "0",
+			"addCard": "0",
+			"damageHero": "0"
+		},
+		{
+			"energy": "1",
+			"damage": "0",
+			"deffence": "0",
+			"removeCard": "0",
+			"addCard": "0",
+			"damageHero": "0"
+		},
+		{
+			"energy": "1",
+			"damage": "0",
+			"deffence": "0",
+			"removeCard": "0",
+			"addCard": "0",
+			"damageHero": "0"
+		},
+		{
+			"energy": "1",
+			"damage": "0",
+			"deffence": "0",
+			"removeCard": "0",
+			"addCard": "0",
+			"damageHero": "0"
+		},
+		{
+			"energy": "1",
+			"damage": "0",
+			"deffence": "0",
+			"removeCard": "0",
+			"addCard": "0",
+			"damageHero": "0"
+		},
+		{
+			"energy": "1",
+			"damage": "0",
+			"deffence": "0",
+			"removeCard": "0",
+			"addCard": "0",
+			"damageHero": "0"
+		},
+		{
+			"energy": "1",
+			"damage": "0",
+			"deffence": "0",
+			"removeCard": "0",
+			"addCard": "0",
+			"damageHero": "0"
+		},
+		{
+			"energy": "1",
+			"damage": "0",
+			"deffence": "0",
+			"removeCard": "0",
+			"addCard": "0",
+			"damageHero": "0"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"actions":[
+		{
+			"defence":{
+				"damage": "0",
+				"armor": "15"
+			},
+			"attack":{
+				"damage": "15",
+				"armor": "0"
+			}
+		},
+		{
+			"defence":{
+				"damage": "0",
+				"armor": "13"
+			},
+			"attack":{
+				"damage": "12",
+				"armor": "0"
+			}
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "djs-handler",
+  "version": "0.0.1",
+  "description": "A easy to use command/event handler for discord.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "LocalStart": "node -r dotenv/config index.js"
+  },
+  "author": "BracketByte",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.10.0",
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "ascii-table": "^0.0.9",
+    "canvas": "^2.9.1",
+    "discord-api-types": "^0.26.0",
+    "discord.js": "^13.6.0",
+    "dotenv": "^10.0.0",
+    "momen": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "nippy.db": "^8.0.0",
+    "quick.db": "^7.1.3"
+  }
+}
