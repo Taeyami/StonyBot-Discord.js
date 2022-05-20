@@ -1,7 +1,7 @@
 # StonyBot-Discord.js-
 
 
-Goals
+<h1>Goals</h1>
 
 Main game - Not Ready
 
@@ -19,9 +19,9 @@ Coins on messages - Not Ready
 
 Site - Not Ready
 
+<br>
 
-
-Commands
+<h1>Commands</h1>
 
 .me - Ready
 
