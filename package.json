@@ -1,7 +1,7 @@
 {
   "name": "stonybot",
   "version": "1.0.1",
-  "description": "",
+  "description": "Yeap it`s me!",
   "main": "index.js",
   "dependencies": {
     "ansi-regex": "^2.1.1",
