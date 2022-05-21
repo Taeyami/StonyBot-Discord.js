@@ -19,6 +19,12 @@ Coins on messages - Not Ready
 
 Site - Not Ready
 
+Track messages stats - Ready
+
+Track voice stats - Ready
+
+Privat rooms - Ready
+
 <br>
 
 <h1>Commands</h1>
