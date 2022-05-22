@@ -19,6 +19,8 @@ Coins on messages - Not Ready
 
 Site - Not Ready
 
+Slash commands - Not Ready
+
 Track messages stats - Ready
 
 Track voice stats - Ready
