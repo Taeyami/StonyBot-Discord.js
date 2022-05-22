@@ -1,4 +1,4 @@
-# StonyBot-Discord.js-
+# StonyBot-Discord.js
 
 
 <h1>Goals</h1>
