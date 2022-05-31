@@ -19,7 +19,7 @@ Custom Roles - Not Ready
 
 Coins on voice - Ready
 
-Coins on messages - Not Ready
+Coins on messages - Ready
 
 Site - Not Ready
 
