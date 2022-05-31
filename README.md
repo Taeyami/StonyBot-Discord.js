@@ -9,6 +9,10 @@ Mini games - Not Ready
 
 Logs - Noy Ready
 
+Button role constructor - Not Ready
+
+Embed constructor - Not Ready 
+
 Moderator commands - Not Ready 
 
 Custom Roles - Not Ready
