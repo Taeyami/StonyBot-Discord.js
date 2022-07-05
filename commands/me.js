@@ -2,17 +2,17 @@ const { MessageEmbed } = require('discord.js');
 
 const dataBase = require('nippy.db');
 
-const ms = dataBase('./data/message.sqlite')
+const ms = dataBase('./data/message.sqlite');
 
-const vc = dataBase('./data/voice.sqlite')
+const vc = dataBase('./data/voice.sqlite');
 
-const cn = dataBase('./data/coin.sqlite')
+const cn = dataBase('./data/coin.sqlite');
 
-const bg = dataBase('./data/badge.sqlite')
+const bg = dataBase('./data/badge.sqlite');
 
-const pr = dataBase('./data/privateRoom.sqlite')
+const pr = dataBase('./data/privateRoom.sqlite');
 
-const st = dataBase('./data/status.sqlite')
+const st = dataBase('./data/status.sqlite');
 
 const moment = require('moment');
 

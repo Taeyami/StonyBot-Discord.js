@@ -10,6 +10,30 @@ module.exports = {
   event: "messageCreate",
   execute: async (message, client) => {
 
+    ms.add(`${message.guild.id}.${message.author.id}.channel.${message.channel.id}`, 1);
+
+    let dataMessage = ms.get(`${message.guild.id}.${message.author.id}.channel`) || [ 0 ];
+
+    let messageData = Object.keys(dataMessage).map(id => {
+        return {
+            channelID: id,
+            totalMessage: dataMessage[id]
+        }
+    }).sort((a, b) => b.totalMessage - a.totalMessage);
+
+    let totalMessage = messageData.filter(data => (Date.now())).reduce((a, b) => a + b.totalMessage, 0);
+
+
+    let constant = 100;
+    while (totalMessage >= constant) {
+      constant *= 2;
+    }
+
+    if (totalMessage === constant) { cn.add(`${oldState.guild.id}.${oldState.id}.coins`, Math.floor(Math.random() * 100) + 1) }
+
+
+
+
     const args = message.content.slice(prefix.length).split(/ +/);
     const commandName = args.shift().toLowerCase();
     const command =
@@ -40,8 +64,6 @@ module.exports = {
     }
 
     if (!message.content.startsWith(prefix) || message.author.bot) return;
-
-    ms.add(`${message.guild.id}.${message.author.id}.channel.${message.channel.id}`, 1);
     
   },
 };
