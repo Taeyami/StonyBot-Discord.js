@@ -7,7 +7,8 @@
     "moment": "^2.29.4",
     "moment-duration-format": "^2.3.2",
     "nippy.db": "^8.0.0",
-    "node-gyp": "^9.0.0"
+    "node-gyp": "^9.0.0",
+    "node-sass": "^7.0.1"
   },
   "name": "stonybot-discord",
   "description": "<h1>Goals</h1>",
