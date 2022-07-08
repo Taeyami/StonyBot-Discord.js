@@ -6,13 +6,13 @@
     "dotenv": "^16.0.1",
     "moment": "^2.29.4",
     "moment-duration-format": "^2.3.2",
-    "nippy.db": "^8.0.0"
+    "nippy.db": "^8.0.0",
+    "node-gyp": "^9.0.0"
   },
   "name": "stonybot-discord",
   "description": "<h1>Goals</h1>",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
