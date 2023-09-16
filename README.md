@@ -3,19 +3,9 @@
 
 <h1>Goals</h1>
 
-Main game - Not Ready
-
-Mini games - Not Ready
-
 Logs - Noy Ready
 
-Button role constructor - Not Ready
-
-Embed constructor - Not Ready 
-
-Moderator commands - Not Ready 
-
-Custom Roles - Not Ready
+Level roles - Not Ready
 
 Coins on voice - Ready
 
