@@ -3,17 +3,15 @@
 
 <h1>Goals</h1>
 
-Logs - Noy Ready
+Logs - Not Ready
 
-Level roles - Not Ready
+Level roles - Not Ready // Сделать так чтобы люди соревновались и было подтверждение о повышение ранга
 
-Coins on voice - Ready
+Coins - Not Ready // Сделать чтобы можно было покупать муты и баны на время за валюту или тратить на badge
 
-Coins on messages - Ready
+Site - Not Ready // Рынок, карточки, предметы, сделать чтобы люди сами создавали свои айтемы за валюту
 
-Site - Not Ready
-
-Slash commands - Not Ready
+Slash commands - Ready
 
 Track messages stats - Ready
 
